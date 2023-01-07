@@ -1,6 +1,6 @@
 # personalSite
 
-https://batuhanaslan0.netlify.app/
+https://batuhanaslan.netlify.app/
 
 - My Portfolio site for who wants to see my projects and learn a little about me.
 
